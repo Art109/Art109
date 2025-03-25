@@ -1,7 +1,9 @@
 ## Olá! Sou o Arthur Aguiar
 
 ## Sobre mim
-- 🌱 Estudando Pixel Art e Game Design
+- 📚 Bacharelado em Ciência da Computação
+- 🌱 Estudando Atualmente: Pixel Art e Game Design
+- 🥅 Meu objetivo é ingressar na área de desenvolvimento de games
 
 <br>
 
@@ -39,5 +41,12 @@
 <img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> </img>
 
+## Contato
+
+<div> 
+  <a href = "arthur.espinaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-aguiar-a52425216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
