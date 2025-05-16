@@ -3,7 +3,7 @@
 ## Sobre mim
 - 📚 Bacharelado em Ciência da Computação
 - 🌱 Estudando Atualmente: Pixel Art e Game Design
-- :video_game:Entusiasta em Games
+- :video_game:Entusiasta em Game Design
 - 🥅 Meu objetivo é ingressar na área como desenvolvedor backend
 
 <br>
