@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologias
 
 ### 💡 Backend  
-<div align="center">
+<div>
   <img height="25" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
   <img height="25" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/> 
   <img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
@@ -33,7 +33,7 @@
 </div>
 
 ### 🌐 Frontend (básico)  
-<div align="center">
+<div>
   <img height="25" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,13 +41,13 @@
 </div>
 
 ### 🎮 Game Dev  
-<div align="center">
+<div>
   <img height="25" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/Game%20Design-E91E63?style=for-the-badge&logo=game&logoColor=white"/>
 </div>
 
 ### 🧰 DevOps & Ferramentas  
-<div align="center">
+<div>
   <img height="25" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
   <img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
