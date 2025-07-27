@@ -1,52 +1,57 @@
-## Olá! Sou o Arthur Aguiar
+## 👋 Olá! Eu sou o Arthur Aguiar
 
-## Sobre mim
-- 📚 Bacharelado em Ciência da Computação
-- 🌱 Estudando Atualmente: Pixel Art e Game Design
-- :video_game: Entusiasta em Game Design
-- 🥅 Meu objetivo é ingressar na área como desenvolvedor de jogos voltado principalmente para o backend 
+### 🎯 Sobre mim
+- 🎓 Bacharel em Ciência da Computação (IF Sudeste MG)
+- 💻 Desenvolvedor Backend focado em .NET, C# e boas práticas (SOLID, Clean Code)
+- ☁️ Entusiasta de cloud computing (AWS & Azure) e microserviços
+- 🧠 Estudando atualmente: Arquitetura de sistemas, mensageria e CI/CD
+- 🎮 Apaixonado por Game Design e desenvolvimento de jogos 2D com Unity
 
-<br>
+🔍 Busco oportunidades como Desenvolvedor .NET Júnior, com foco em backend, APIs e soluções escaláveis. Tenho perfil colaborativo, curioso e focado em aprender continuamente.
 
+---
 
-
-<div align="center"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
-  <a href="https://github.com/Magah051](https://github.com/Art109?tab=repositories)">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Art109&show_icons=true&theme=radical"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art109&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/Art109">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Art109&show_icons=true&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art109&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-## Tecnologias 
-### Game Developer/Design
-<img height="25" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"> </img>
+---
 
-### Front End
-<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
-<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+## 🛠️ Tecnologias
 
+### 💡 Backend
+<img height="25" src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### Back-end
-<img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> </img>
+### 🌐 Frontend (básico)
+<img height="25" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
+### 🎮 Game Dev
+<img height="25" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/Game%20Design-E91E63?style=for-the-badge&logo=game&logoColor=white"/>
 
-### Outros
-<img height="25" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> </img>
+### 🧰 Ferramentas e DevOps
+<img height="25" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
+<img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img height="25" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
-## Contato
+---
+
+## 📫 Contato
 
 <div> 
-  <a href = "mailto:arthur.espinaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arthur-aguiar-a52425216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:arthur.espinaguiar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arthur-aguiar-a52425216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </div>
-
 
