@@ -1,11 +1,13 @@
-##👋 Olá! Eu sou o Arthur Aguiar
-###🎯 Sobre mim
--🎓 Bacharel em Ciência da Computação (IF Sudeste MG)
--💻 Desenvolvedor com experiência em C#, Unity e boas práticas (SOLID, Clean Code)
--🎮 Apaixonado por Game Development, com projetos em Unity e participação em jogos exibidos na Gamescom Latam 2025
--🧠 Estudando constantemente: Game Design, arquitetura de sistemas e práticas de CI/CD
--☁️ Interesse em tecnologias emergentes, incluindo cloud e pipelines de integração para jogos
--🚀 Busco oportunidades como Game Developer Júnior, para criar experiências imersivas e divertidas, com foco em mecânicas, narrativa e gameplay.
+# 👋 Olá! Eu sou o Arthur Aguiar  
+
+## 🎯 Sobre mim  
+- 🎓 **Bacharel em Ciência da Computação** (IF Sudeste MG)  
+- 💻 **Desenvolvedor com experiência em C#, Unity e boas práticas** (SOLID, Clean Code)  
+- 🎮 **Apaixonado por Game Development**, com projetos em **Unity** e participação em jogo exibido na **Gamescom Latam 2025**  
+- 🧠 **Estudando constantemente**: Game Design, Arquitetura de Sistemas e práticas de CI/CD  
+- ☁️ Interesse em **tecnologias emergentes**, incluindo Cloud e automação de pipelines para jogos  
+- 🔗 **Também possuo experiência com desenvolvimento backend (.NET)**, com interesse em aplicar essa base para **jogos online, APIs e serviços integrados a games**  
+- 🚀 Busco oportunidades como **Game Developer Júnior**, para criar experiências imersivas e inovadoras, unindo **game design e soluções técnicas robustas**  
 
 
 
