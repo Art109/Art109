@@ -13,11 +13,11 @@
 
 ---
 
-div align="center">
+<div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Art109&show_icons=true&theme=radical"/>
+<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art109&layout=compact&langs_count=7&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
 
